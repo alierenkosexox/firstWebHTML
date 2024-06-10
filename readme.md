@@ -1,4 +1,4 @@
-Ödev 1 - İlk Web Sayfamızı Oluşturmak -Teslim Et
+İlk Web Sayfamızı Oluşturmak -Teslim Et
 Kendimizi Tanıtalım
 Genel Yapı:
 
