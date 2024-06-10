@@ -1,4 +1,4 @@
-Ödev 1 - İlk Web Sayfamızı Oluşturmak -Teslim Et
+İlk Web Sayfamızı Oluşturmak -Teslim Et
 Kendimizi Tanıtalım
 Genel Yapı:
 
@@ -8,9 +8,9 @@ Sayfanızın temel yapısını oluşturmak için HTML5 doküman yapısını kull
 
 Başlık ve Paragraflar:
 
-Sayfanızın en üstünde bir ana başlık (<h1>) bulunmalıdır. Bu başlık adınızı içermelidir.
+Sayfanızın en üstünde bir ana başlık h1 bulunmalıdır. Bu başlık adınızı içermelidir.
 
-Alt başlıklar (<h2>, <h3>, vb.) kullanarak CV’nizin bölümlerini (Özgeçmiş, Eğitim, İş Deneyimi, Yetenekler, İletişim) düzenleyin.
+Alt başlıklar h2, h3, vb.) kullanarak CV’nizin bölümlerini (Özgeçmiş, Eğitim, İş Deneyimi, Yetenekler, İletişim) düzenleyin.
 
 Her bölümde en az bir paragraf (<p>) olmalıdır. Örneğin, kendinizi tanıtan kısa bir paragraf.
 
